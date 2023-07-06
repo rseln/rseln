@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="left">Hi 👋, I'm Rose!</h3>  
 <h4 align="left">A Computer Engineering student and aspiring full-stack developer 👨‍💻</h4>   
 
-Check out my [website](rseln.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/rseln/)!
+Check out my [website](https://rseln.github.io/) or find me on [LinkedIn](https://www.linkedin.com/in/rseln/)!
 
 ![cat-typing-gif](https://github.com/rseln/rseln/assets/28782978/5863163d-32a2-4fcc-922e-deb500569aea)
 
